@@ -132,10 +132,6 @@
       <DependentUpon>MyForm.h</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\OneDrive\Desktop\background.jpg" />
-    <Image Include="..\..\..\..\OneDrive\Desktop\diamond.png" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

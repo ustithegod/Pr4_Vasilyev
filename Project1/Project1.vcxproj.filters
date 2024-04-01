@@ -24,12 +24,4 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\OneDrive\Desktop\diamond.png">
-      <Filter>Файлы ресурсов</Filter>
-    </Image>
-    <Image Include="..\..\..\..\OneDrive\Desktop\background.jpg">
-      <Filter>Файлы ресурсов</Filter>
-    </Image>
-  </ItemGroup>
 </Project>
